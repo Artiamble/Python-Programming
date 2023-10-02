@@ -20,6 +20,7 @@ Comments in Program
 .
 ******************************************************
 Identifier in Python
+
 A name in a python program is called identifier.
 This name can be,
 o Package name
